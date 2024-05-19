@@ -108,3 +108,12 @@ touch footer.jpeg
 ls --color=auto
 cd ..
 find -name footer.jpeg
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+mv footer.jpeg ./clients/assets/images
+mv footer.jpeg /client/assets/images
+mv /images/footer.jpeg /client/assets/images
+mv ./images/footer.jpeg /client/assets/images
+mv website/images/footer.jpeg client/assets/images
+ls --color=auto
+mv images/footer.jpeg client/assets/images
