@@ -186,3 +186,4 @@ cd ..
 ls --color=auto
 mv website-boiler website
 mv website website-boilerplate
+ls --color=auto
