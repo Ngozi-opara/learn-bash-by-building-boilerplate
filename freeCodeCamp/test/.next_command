@@ -70,3 +70,15 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ../..
+../..
+cd ..
+cd clients
+cd client
+ls --color=auto
+cd assets
+cd ../../..
+cd -
+cd website
+cd images
+cd ../../..
