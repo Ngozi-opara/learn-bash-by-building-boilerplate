@@ -64,3 +64,6 @@ find website
 find
 cd client
 mkdir assets
+rm -d assets
+mkdir assets
+cd assets
