@@ -82,3 +82,6 @@ cd -
 cd website
 cd images
 cd ../../..
+__vsc_prompt_cmd_original
+clear
+cd images
