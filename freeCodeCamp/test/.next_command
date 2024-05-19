@@ -123,3 +123,21 @@ rmdir images
 find background.jpg
 rm website/images/background.jpg
 rm images/background.jpg
+__vsc_prompt_cmd_original
+rmdir images
+rmdir -f images
+cd images
+ls --color=auto
+cd..
+cd ..
+rm -d -f images
+rm -f images
+rmdir images
+rmdir -r images
+rm CodeAlly.svg
+cd images
+rm CodeAally.svg CodeRoad.svg freeCodeCamp.svg
+rm CodeAlly.svg
+ls --color=auto
+cd ..
+rmdir images
