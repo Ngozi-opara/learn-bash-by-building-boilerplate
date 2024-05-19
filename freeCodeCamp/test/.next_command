@@ -92,3 +92,4 @@ rm website
 mv header.png ..
 touch header.png
 mv header.png ..
+ls --color=auto
