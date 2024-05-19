@@ -149,3 +149,4 @@ mv CodeAlly.svg client/assets/icons
 touch CodeAlly.svg
 mv CodeAally.svg client/assets/icons
 mv CodeAlly.svg client/assets/icons
+find
