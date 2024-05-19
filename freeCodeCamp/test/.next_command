@@ -1,1 +1,45 @@
 ls --color=auto
+cd client
+cd website
+ls --color=auto
+mkdir website
+cd website
+mkdir client
+touch index.html
+touch styles.css
+touch index.js
+touch .gitignore
+touch header.png
+touch footer.png
+touch CodeAlly.svg
+touch CodeRoad.svg
+Touch freeCodeCamp.svg
+touch freeCodeCamp.svg
+mkdir images
+mv header.png images
+mv footer.png images
+mv CodeAlly.svg images
+cp background.jpg images
+touch background.jpg
+mv backgoround.jpg
+mv background.jpg images
+mv CodeRoad.svg
+mv CodeRoad.svg images
+mv freeCodeCamp.svg images
+ls --color=auto
+touch roboto.woff
+touch lato.ttf
+touch menlo.otf
+mkdir fonts
+mv roboto.woff fonts
+mv lato.ttf fonts
+mv menlo.otf fonts
+find
+mkdir client/src
+mv index.html client/src
+mv index.js client/src
+mv styles.css client/src
+find
+clear
+help find
+find --help
