@@ -144,3 +144,8 @@ rmdir images
 ls --color=auto
 mkdir client/assests/icons
 mkdir client/assets/icons
+__vsc_prompt_cmd_original
+mv CodeAlly.svg client/assets/icons
+touch CodeAlly.svg
+mv CodeAally.svg client/assets/icons
+mv CodeAlly.svg client/assets/icons
