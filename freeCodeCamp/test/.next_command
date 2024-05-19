@@ -47,3 +47,18 @@ find -name index.html
 find -name styles.css
 file -name src
 find -name src
+find website
+ls --color=auto
+ls --color=auto
+cd ..
+find website
+cd website
+find website
+find -name website
+find -name website
+cd ..
+find -name website
+find website
+cd website
+find website
+find
