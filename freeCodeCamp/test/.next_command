@@ -142,3 +142,5 @@ ls --color=auto
 cd ..
 rmdir images
 ls --color=auto
+mkdir client/assests/icons
+mkdir client/assets/icons
