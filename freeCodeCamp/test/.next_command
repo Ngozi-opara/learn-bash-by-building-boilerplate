@@ -43,3 +43,4 @@ find
 clear
 help find
 find --help
+find -name index.html
