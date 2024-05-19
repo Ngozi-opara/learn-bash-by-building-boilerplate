@@ -67,3 +67,4 @@ mkdir assets
 rm -d assets
 mkdir assets
 cd assets
+mkdir images
